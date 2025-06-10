@@ -19,8 +19,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicollinoxx&theme=buefy&hide_border=true&include_all_commits=false&count_private=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollinoxx&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
   </div>
-  
-  ### 👀 Profile Views
+
+  ---
   <img src="https://komarev.com/ghpvc/?username=nicollinoxx&color=red" alt="Profile views" />
   
 </div>
