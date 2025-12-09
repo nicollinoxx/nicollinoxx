@@ -6,7 +6,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-amaral-de-almeida/) 	
 
   ## 🛠️ Technologies
-  [![My Skills](https://skillicons.dev/icons?i=ruby,rails,react,js,-,html,css,bootstrap,tailwind,-,postgresql,mysql,sqlite,redis,graphql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ruby,rails,react,js,html,css,bootstrap,tailwind,postgresql,mysql,sqlite,redis,graphql)](https://skillicons.dev)
 
   ## 📊 GitHub Analytics
 
