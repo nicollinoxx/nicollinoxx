@@ -9,9 +9,8 @@
   [![My Skills](https://skillicons.dev/icons?i=ruby,rails,react,js,html,css,bootstrap,tailwind,postgresql,mysql,sqlite,redis,graphql)](https://skillicons.dev)
 
   ## 📊 GitHub Analytics
-
-  ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=nicollinoxx&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)
-  ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nicollinoxx&theme=buefy&hide_border=true&layout=compact)
+  | ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=nicollinoxx&theme=buefy&hide_border=true&include_all_commits=false&count_private=false) | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nicollinoxx&theme=buefy&hide_border=true&layout=compact) |
+  | --- | --- |
 
   ![Profile Views](https://komarev.com/ghpvc/?username=nicollinoxx&color=red)
   
