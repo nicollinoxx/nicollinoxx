@@ -39,7 +39,7 @@ I am a Full Stack Developer focused on building scalable, maintainable, and well
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nicollinoxx&show_icons=true&theme=transparen&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nicollinoxx&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollinoxx&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 
