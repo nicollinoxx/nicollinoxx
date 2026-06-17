@@ -39,7 +39,7 @@ I am a Full Stack Developer focused on building scalable, maintainable, and well
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nicollinoxx&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nicollinoxx&show_icons=true&theme=transparen&hide_border=true" alt="GitHub Stats" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollinoxx&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 
@@ -51,6 +51,6 @@ I am a Full Stack Developer focused on building scalable, maintainable, and well
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nicollinoxx&color=red)
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" height="200">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" height="200">
 
 </div>
